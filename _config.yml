@@ -1,0 +1,14 @@
+layout_spectrum: 0.9193549
+typography_spectrum: 0.04659498
+color:
+  saturation: 0.9336917
+  lightness: 0.8028674
+  brandStrength: 0.5519713
+  rhythmicContrast: 0.5197133
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+name: '83'
