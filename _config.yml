@@ -11,16 +11,16 @@ collections:
       format: rss
       number: 10
 color:
-  saturation: 0.9336917
-  brandStrength: 0.7329749
-  lightness: 0.8028674
+  saturation: 0.3225806
+  brandStrength: 1
+  lightness: 0.09139785
   brandColors:
     - '#FFFFFF'
     - '#4D1B1A'
     - '#E8CF73'
     - '#C09143'
     - '#8D6A68'
-  rhythmicContrast: 0.5197133
-typography_spectrum: 0.04659498
-layout_spectrum: 0.9193549
+  rhythmicContrast: 0.9587814
+typography_spectrum: 0.172043
+layout_spectrum: 0.9784946
 name: '83'
