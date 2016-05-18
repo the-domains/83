@@ -1,7 +1,7 @@
 name: '83'
 favicon: null
-layout_spectrum: 0.9784946
-typography_spectrum: 0.172043
+layout_spectrum: 0.24439
+typography_spectrum: 0.59401
 collections:
   - index:
       path: /
